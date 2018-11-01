@@ -9,13 +9,16 @@
 1.2.1. [Добавить продукт в инвентарь](#1.2.1) <br>
 1.2.2. [Удалить продукт из инвентаря](#1.2.2) <br>
 1.2.3. [Редактировать описание продукта](#1.2.3) <br>
-2. [Диаграмма активности](#2) <br>
+2. [Диаграммы активности](#2) <br>
 3. [Диаграмма последовательности](#3) <br>
+4. [Диаграммы состояний](#4) <br>
+5. [Диаграмма классов](#5) <br>
+6. [Диаграмма развертывания и компонентов](#6) <br>
 
 **1. Диаграмма прецедентов<a name="1"></a>**
 
 Диаграмма прецедентов представляет собой следующую диаграмму: 
-![enter image description here](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/UseCaseDiagram.png)
+![UseCase Diagram](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/UseCaseDiagram.png)
 **1.1 Актёры<a name="1.1"></a>**
 
 Актёр | Описание
@@ -63,5 +66,16 @@
 **3. Диаграмма последовательности<a name="3"></a>**
 
 Диаграмма последовательности основного варианта использования представляет из себя следующую диаграмму:
-	![enter image description here](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/SequenceDiagram.png)
+	![Sequence Diagram](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/SequenceDiagram.png)
 
+**4. Диаграммы состояний<a name="4"></a>**
+
+Диаграммы состояний более подробно представлены в следующем документе: [диаграммы состояний](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/State/README.md)
+
+**5. Диаграмма классов<a name="5"></a>**
+
+![Class Diagram](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/ClassDiagram.png)
+
+**6. Диаграмма развертывания и компонентов<a name="6"></a>**
+
+![Component/Deployment Diagram](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/ComponentDeploymentDiagram.png)
