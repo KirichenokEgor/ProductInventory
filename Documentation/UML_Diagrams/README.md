@@ -18,10 +18,9 @@
 ![enter image description here](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/UseCaseDiagram.png)
 **1.1 Актёры<a name="1.1"></a>**
 
-Актёр: Пользователь.
-
-Описание: Человек, использующий систему.
-
+Актёр | Описание
+--- | ---
+Пользователь | Человек, использующий систему
 
 **1.2 Варианты использования<a name="1.2"></a>**
 
