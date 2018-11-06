@@ -4,10 +4,10 @@
 3. [Удаление продукта из инвентаря](#3) <br>
 
 ### 1. Добавление продукта в инвентарь<a name="1"></a>
-![Добавление продукта в инвентарь](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/State/StateAddProduct.png)
+![Добавление продукта в инвентарь](https://github.com/KirichenokEgor/ProductInventory/blob/1ac260bf565d6df1355ad540415635fe7afbc51b/Documentation/UML_Diagrams/State/StateAddProduct.png?raw=true)
 
-### 3. Редактирование описания продукта<a name="2"></a>
-![Удаление продукта из инвентаря](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/State/StateEditProduct.png)
+### 2. Редактирование описания продукта<a name="2"></a>
+![Редактирование описания продукта](https://github.com/KirichenokEgor/ProductInventory/blob/1ac260bf565d6df1355ad540415635fe7afbc51b/Documentation/UML_Diagrams/State/StateEditProduct.png?raw=true)
 
-### 2. Добавление продукта в инвентарь<a name="3"></a>
-![Добавление продукта в инвентарь](https://github.com/KirichenokEgor/ProductInventory/blob/master/Documentation/UML_Diagrams/State/StateDeleteProduct.png)
+### 3. Удаление продукта из инвентаря<a name="3"></a>
+![Удаление продукта из инвентаря](https://github.com/KirichenokEgor/ProductInventory/blob/1ac260bf565d6df1355ad540415635fe7afbc51b/Documentation/UML_Diagrams/State/StateDeleteProduct.png?raw=true)
