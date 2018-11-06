@@ -74,7 +74,7 @@
 
 **5. Диаграмма классов<a name="5"></a>**
 
-![Class Diagram](https://github.com/KirichenokEgor/ProductInventory/blob/ccf488baf32a000410ec47cc1e586ea9f6cb0901/Documentation/UML_Diagrams/ClassDiagram.png?raw=true)
+![Class Diagram](https://raw.githubusercontent.com/KirichenokEgor/ProductInventory/40255122512196ca65bc3568113986af3ec7cde1/Documentation/UML_Diagrams/ClassDiagram.png)
 
 **6. Диаграмма развертывания и компонентов<a name="6"></a>**
 
