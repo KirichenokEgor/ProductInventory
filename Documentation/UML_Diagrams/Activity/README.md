@@ -17,7 +17,7 @@
 
 При нажатии кнопки "Edit" откроется окно редактирования описания выбранного продукта. Необходимо изменить нужные поля и нажать "OK". При нажатии "Cancel" продукт не изменится, а окно закроется.
 
-![enter image description here](https://github.com/KirichenokEgor/ProductInventory/blob/b5a387cf46417410cba3ccb9032f4b10264f740c/Documentation/UML_Diagrams/State/StateEditProduct.png?raw=true)
+![enter image description here](https://github.com/KirichenokEgor/ProductInventory/blob/941c61aed23c49ae2781a41dafd111020e9ce4a1/Documentation/UML_Diagrams/State/StateEditProduct.png?raw=true)
    
 **3. Удаление продукта<a name="3"></a>**
 
